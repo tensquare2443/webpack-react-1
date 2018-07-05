@@ -1,0 +1,17 @@
+.class-one {
+  color: red;
+}
+
+.top-nav-link {
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.top-nav-link:hover {
+  background-color: #303035;
+  transition: all 0.1s;
+}
+
+.main-cont {
+  font-size: 150%;
+}
